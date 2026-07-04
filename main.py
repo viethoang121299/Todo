@@ -8,7 +8,7 @@ from database import init, add_tk, get_tk, get_tk_id, del_tk, upd_tk
 from cloud import restore_db, backup_db
 
 # Database
-restore_db()
+#restore_db()
 init()
 
 # Giao dien
